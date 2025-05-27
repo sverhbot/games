@@ -1,0 +1,580 @@
+Uri: https://code.jquery.com/jquery-3.7.1.min.js
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\jquery-3.7.1.min.js
+Content Type: application/javascript
+
+Uri: https://v1.bundlecdn.com/font/Rocketfont-cyrillic-ext.229598f72.woff2
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\font\Rocketfont-cyrillic-ext.229598f72.woff2
+Content Type: application/octet-stream
+
+Uri: https://v1.bundlecdn.com/font/Rocketfont-cyrillic.002ad0b78.woff2
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\font\Rocketfont-cyrillic.002ad0b78.woff2
+Content Type: application/octet-stream
+
+Uri: https://v1.bundlecdn.com/font/Rocketfont-greek-ext.73c7ebb7b.woff2
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\font\Rocketfont-greek-ext.73c7ebb7b.woff2
+Content Type: application/octet-stream
+
+Uri: https://v1.bundlecdn.com/font/Rocketfont-greek.73c7ebb7b.woff2
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\font\Rocketfont-greek.73c7ebb7b.woff2
+Content Type: application/octet-stream
+
+Uri: https://v1.bundlecdn.com/font/Rocketfont-latin-ext.1054180f7.woff2
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\font\Rocketfont-latin-ext.1054180f7.woff2
+Content Type: application/octet-stream
+
+Uri: https://v1.bundlecdn.com/font/Rocketfont-latin.6b82a4379.woff2
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\font\Rocketfont-latin.6b82a4379.woff2
+Content Type: application/octet-stream
+
+Uri: https://v1.bundlecdn.com/font/Rocketfont-vietnamese.73c7ebb7b.woff2
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\font\Rocketfont-vietnamese.73c7ebb7b.woff2
+Content Type: application/octet-stream
+
+Uri: https://v1.bundlecdn.com/font/SFMono-Bold-numbers-currencies.8c9c287d8.woff2
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\font\SFMono-Bold-numbers-currencies.8c9c287d8.woff2
+Content Type: application/octet-stream
+
+Uri: https://v1.bundlecdn.com/font/SFMono-Heavy-numbers-currencies.a86f2ba4d.woff2
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\font\SFMono-Heavy-numbers-currencies.a86f2ba4d.woff2
+Content Type: application/octet-stream
+
+Uri: https://v1.bundlecdn.com/font/SFMono-Regular-numbers-currencies.36835e252.woff2
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\font\SFMono-Regular-numbers-currencies.36835e252.woff2
+Content Type: application/octet-stream
+
+Uri: https://v1.bundlecdn.com/font/SFNSDisplay-cyrillic-ext.b8632914f.woff2
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\font\SFNSDisplay-cyrillic-ext.b8632914f.woff2
+Content Type: application/octet-stream
+
+Uri: https://v1.bundlecdn.com/font/SFNSDisplay-cyrillic.e423f3776.woff2
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\font\SFNSDisplay-cyrillic.e423f3776.woff2
+Content Type: application/octet-stream
+
+Uri: https://v1.bundlecdn.com/font/SFNSDisplay-greek-ext.4dd0f750e.woff2
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\font\SFNSDisplay-greek-ext.4dd0f750e.woff2
+Content Type: application/octet-stream
+
+Uri: https://v1.bundlecdn.com/font/SFNSDisplay-greek.89b5d1a14.woff2
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\font\SFNSDisplay-greek.89b5d1a14.woff2
+Content Type: application/octet-stream
+
+Uri: https://v1.bundlecdn.com/font/SFNSDisplay-latin-ext.4308fef7f.woff2
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\font\SFNSDisplay-latin-ext.4308fef7f.woff2
+Content Type: application/octet-stream
+
+Uri: https://v1.bundlecdn.com/font/SFNSDisplay-latin.50a4eaff3.woff2
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\font\SFNSDisplay-latin.50a4eaff3.woff2
+Content Type: application/octet-stream
+
+Uri: https://v1.bundlecdn.com/font/SFNSDisplay-vietnamese.4156e587b.woff2
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\font\SFNSDisplay-vietnamese.4156e587b.woff2
+Content Type: application/octet-stream
+
+Uri: https://v1.bundlecdn.com/font/SFNSText-cyrillic-ext.3d07ed4e1.woff2
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\font\SFNSText-cyrillic-ext.3d07ed4e1.woff2
+Content Type: application/octet-stream
+
+Uri: https://v1.bundlecdn.com/font/SFNSText-cyrillic.211c5c35c.woff2
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\font\SFNSText-cyrillic.211c5c35c.woff2
+Content Type: application/octet-stream
+
+Uri: https://v1.bundlecdn.com/font/SFNSText-greek-ext.9562d6f08.woff2
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\font\SFNSText-greek-ext.9562d6f08.woff2
+Content Type: application/octet-stream
+
+Uri: https://v1.bundlecdn.com/font/SFNSText-greek.aa40936e2.woff2
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\font\SFNSText-greek.aa40936e2.woff2
+Content Type: application/octet-stream
+
+Uri: https://v1.bundlecdn.com/font/SFNSText-latin-ext.7b2e9f978.woff2
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\font\SFNSText-latin-ext.7b2e9f978.woff2
+Content Type: application/octet-stream
+
+Uri: https://v1.bundlecdn.com/font/SFNSText-latin.f09aa5229.woff2
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\font\SFNSText-latin.f09aa5229.woff2
+Content Type: application/octet-stream
+
+Uri: https://v1.bundlecdn.com/font/SFNSText-vietnamese.3b28f626c.woff2
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\font\SFNSText-vietnamese.3b28f626c.woff2
+Content Type: application/octet-stream
+
+Uri: https://v1.bundlecdn.com/img/bakground-free-bet.cc02347a0-1820.jpg
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\img\bakground-free-bet.cc02347a0-1820.jpg
+Content Type: image/jpeg
+
+Uri: https://v1.bundlecdn.com/img/bonus-freespins-complete-bg.0b2b948f4-270.png
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\img\bonus-freespins-complete-bg.0b2b948f4-270.png
+Content Type: image/png
+
+Uri: https://v1.bundlecdn.com/img/bonus-freespins-mobile-complete-bg.b0d05815d-216.png
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\img\bonus-freespins-mobile-complete-bg.b0d05815d-216.png
+Content Type: image/png
+
+Uri: https://v1.bundlecdn.com/img/bonus-freespins-wide-complete-bg.2f5051976-275.png
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\img\bonus-freespins-wide-complete-bg.2f5051976-275.png
+Content Type: image/png
+
+Uri: https://v1.bundlecdn.com/img/check.8cdf432de.svg
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\img\check.8cdf432de.svg
+Content Type: image/svg+xml
+
+Uri: https://v1.bundlecdn.com/img/icobs_gaelic_football.7c25f2623.svg
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\img\icobs_gaelic_football.7c25f2623.svg
+Content Type: image/svg+xml
+
+Uri: https://v1.bundlecdn.com/img/icobs_gaelic_hurling.2c9f68ee0.svg
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\img\icobs_gaelic_hurling.2c9f68ee0.svg
+Content Type: image/svg+xml
+
+Uri: https://v1.bundlecdn.com/img/iconbs-counter-strike-2.e97ed109f.svg
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\img\iconbs-counter-strike-2.e97ed109f.svg
+Content Type: image/svg+xml
+
+Uri: https://v1.bundlecdn.com/img/iconbs-overwatch.e6c04ab92.svg
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\img\iconbs-overwatch.e6c04ab92.svg
+Content Type: image/svg+xml
+
+Uri: https://v1.bundlecdn.com/img/iconbs_star_craft.650353878.svg
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\img\iconbs_star_craft.650353878.svg
+Content Type: image/svg+xml
+
+Uri: https://v1.bundlecdn.com/img/icons_arenaofvalor.8ba1c56c0.svg
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\img\icons_arenaofvalor.8ba1c56c0.svg
+Content Type: image/svg+xml
+
+Uri: https://v1.bundlecdn.com/img/icons_atletika.4c7cce474.svg
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\img\icons_atletika.4c7cce474.svg
+Content Type: image/svg+xml
+
+Uri: https://v1.bundlecdn.com/img/icons_australian_football.ab0a93b97.svg
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\img\icons_australian_football.ab0a93b97.svg
+Content Type: image/svg+xml
+
+Uri: https://v1.bundlecdn.com/img/icons_avtosport.5a1670f3a.svg
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\img\icons_avtosport.5a1670f3a.svg
+Content Type: image/svg+xml
+
+Uri: https://v1.bundlecdn.com/img/icons_badminton.947fc7768.svg
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\img\icons_badminton.947fc7768.svg
+Content Type: image/svg+xml
+
+Uri: https://v1.bundlecdn.com/img/icons_basketball.aaa47453e.svg
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\img\icons_basketball.aaa47453e.svg
+Content Type: image/svg+xml
+
+Uri: https://v1.bundlecdn.com/img/icons_basketball_3x3.9e25be837.svg
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\img\icons_basketball_3x3.9e25be837.svg
+Content Type: image/svg+xml
+
+Uri: https://v1.bundlecdn.com/img/icons_beysball.6027e2252.svg
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\img\icons_beysball.6027e2252.svg
+Content Type: image/svg+xml
+
+Uri: https://v1.bundlecdn.com/img/icons_biatlon.c36a9e4cf.svg
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\img\icons_biatlon.c36a9e4cf.svg
+Content Type: image/svg+xml
+
+Uri: https://v1.bundlecdn.com/img/icons_bike.c897321be.svg
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\img\icons_bike.c897321be.svg
+Content Type: image/svg+xml
+
+Uri: https://v1.bundlecdn.com/img/icons_bobsley.676c6198d.svg
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\img\icons_bobsley.676c6198d.svg
+Content Type: image/svg+xml
+
+Uri: https://v1.bundlecdn.com/img/icons_box.68228b09f.svg
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\img\icons_box.68228b09f.svg
+Content Type: image/svg+xml
+
+Uri: https://v1.bundlecdn.com/img/icons_boyls.c055fb4fb.svg
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\img\icons_boyls.c055fb4fb.svg
+Content Type: image/svg+xml
+
+Uri: https://v1.bundlecdn.com/img/icons_callofduty.360e80e4f.svg
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\img\icons_callofduty.360e80e4f.svg
+Content Type: image/svg+xml
+
+Uri: https://v1.bundlecdn.com/img/icons_car_racing.ac1f0ee08.svg
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\img\icons_car_racing.ac1f0ee08.svg
+Content Type: image/svg+xml
+
+Uri: https://v1.bundlecdn.com/img/icons_chess.d18793983.svg
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\img\icons_chess.d18793983.svg
+Content Type: image/svg+xml
+
+Uri: https://v1.bundlecdn.com/img/icons_computer_games.1d2245290.svg
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\img\icons_computer_games.1d2245290.svg
+Content Type: image/svg+xml
+
+Uri: https://v1.bundlecdn.com/img/icons_criket.e18d0c2a2.svg
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\img\icons_criket.e18d0c2a2.svg
+Content Type: image/svg+xml
+
+Uri: https://v1.bundlecdn.com/img/icons_csgo.efc7f9931.svg
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\img\icons_csgo.efc7f9931.svg
+Content Type: image/svg+xml
+
+Uri: https://v1.bundlecdn.com/img/icons_darts.143c6b32a.svg
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\img\icons_darts.143c6b32a.svg
+Content Type: image/svg+xml
+
+Uri: https://v1.bundlecdn.com/img/icons_dota.ce03f9937.svg
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\img\icons_dota.ce03f9937.svg
+Content Type: image/svg+xml
+
+Uri: https://v1.bundlecdn.com/img/icons_esport_fifa.8c239a713.svg
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\img\icons_esport_fifa.8c239a713.svg
+Content Type: image/svg+xml
+
+Uri: https://v1.bundlecdn.com/img/icons_figurnoe katanie.ce2bea250.svg
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\img\icons_figurnoe katanie.ce2bea250.svg
+Content Type: image/svg+xml
+
+Uri: https://v1.bundlecdn.com/img/icons_florball.7626a3803.svg
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\img\icons_florball.7626a3803.svg
+Content Type: image/svg+xml
+
+Uri: https://v1.bundlecdn.com/img/icons_football.2e8099396.svg
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\img\icons_football.2e8099396.svg
+Content Type: image/svg+xml
+
+Uri: https://v1.bundlecdn.com/img/icons_football_pesok.524723688.svg
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\img\icons_football_pesok.524723688.svg
+Content Type: image/svg+xml
+
+Uri: https://v1.bundlecdn.com/img/icons_footzal.52da96641.svg
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\img\icons_footzal.52da96641.svg
+Content Type: image/svg+xml
+
+Uri: https://v1.bundlecdn.com/img/icons_formula_1.a9c739366.svg
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\img\icons_formula_1.a9c739366.svg
+Content Type: image/svg+xml
+
+Uri: https://v1.bundlecdn.com/img/icons_formula_e.f9feb4257.svg
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\img\icons_formula_e.f9feb4257.svg
+Content Type: image/svg+xml
+
+Uri: https://v1.bundlecdn.com/img/icons_fristail.b306697ce.svg
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\img\icons_fristail.b306697ce.svg
+Content Type: image/svg+xml
+
+Uri: https://v1.bundlecdn.com/img/icons_gandball.a82d6ed8c.svg
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\img\icons_gandball.a82d6ed8c.svg
+Content Type: image/svg+xml
+
+Uri: https://v1.bundlecdn.com/img/icons_golf.58d8b3f1a.svg
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\img\icons_golf.58d8b3f1a.svg
+Content Type: image/svg+xml
+
+Uri: https://v1.bundlecdn.com/img/icons_gornyye lyzhi.7d5d32aa5.svg
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\img\icons_gornyye lyzhi.7d5d32aa5.svg
+Content Type: image/svg+xml
+
+Uri: https://v1.bundlecdn.com/img/icons_hearthstone.42a54de3e.svg
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\img\icons_hearthstone.42a54de3e.svg
+Content Type: image/svg+xml
+
+Uri: https://v1.bundlecdn.com/img/icons_hockey.0d49138de.svg
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\img\icons_hockey.0d49138de.svg
+Content Type: image/svg+xml
+
+Uri: https://v1.bundlecdn.com/img/icons_hockey_ball.f19b61fde.svg
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\img\icons_hockey_ball.f19b61fde.svg
+Content Type: image/svg+xml
+
+Uri: https://v1.bundlecdn.com/img/icons_hockey_on_trava.ba3aab1b1.svg
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\img\icons_hockey_on_trava.ba3aab1b1.svg
+Content Type: image/svg+xml
+
+Uri: https://v1.bundlecdn.com/img/icons_indy_racing.f1e9567ae.svg
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\img\icons_indy_racing.f1e9567ae.svg
+Content Type: image/svg+xml
+
+Uri: https://v1.bundlecdn.com/img/icons_kabaddi.782d036e6.svg
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\img\icons_kabaddi.782d036e6.svg
+Content Type: image/svg+xml
+
+Uri: https://v1.bundlecdn.com/img/icons_kerling.778f48ff7.svg
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\img\icons_kerling.778f48ff7.svg
+Content Type: image/svg+xml
+
+Uri: https://v1.bundlecdn.com/img/icons_king_of_glory.29921ce09.svg
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\img\icons_king_of_glory.29921ce09.svg
+Content Type: image/svg+xml
+
+Uri: https://v1.bundlecdn.com/img/icons_konkobezhec.1cd39c836.svg
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\img\icons_konkobezhec.1cd39c836.svg
+Content Type: image/svg+xml
+
+Uri: https://v1.bundlecdn.com/img/icons_lacross.801376798.svg
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\img\icons_lacross.801376798.svg
+Content Type: image/svg+xml
+
+Uri: https://v1.bundlecdn.com/img/icons_lol.93a51151a.svg
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\img\icons_lol.93a51151a.svg
+Content Type: image/svg+xml
+
+Uri: https://v1.bundlecdn.com/img/icons_loshad.66e4ac449.svg
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\img\icons_loshad.66e4ac449.svg
+Content Type: image/svg+xml
+
+Uri: https://v1.bundlecdn.com/img/icons_lyzhi.a67319786.svg
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\img\icons_lyzhi.a67319786.svg
+Content Type: image/svg+xml
+
+Uri: https://v1.bundlecdn.com/img/icons_mma.043f3d099.svg
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\img\icons_mma.043f3d099.svg
+Content Type: image/svg+xml
+
+Uri: https://v1.bundlecdn.com/img/icons_nastolnii tennis.7c5ee4057.svg
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\img\icons_nastolnii tennis.7c5ee4057.svg
+Content Type: image/svg+xml
+
+Uri: https://v1.bundlecdn.com/img/icons_nba2k.5993448ef.svg
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\img\icons_nba2k.5993448ef.svg
+Content Type: image/svg+xml
+
+Uri: https://v1.bundlecdn.com/img/icons_owerwatch.706de4776.svg
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\img\icons_owerwatch.706de4776.svg
+Content Type: image/svg+xml
+
+Uri: https://v1.bundlecdn.com/img/icons_parus.80635ec57.svg
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\img\icons_parus.80635ec57.svg
+Content Type: image/svg+xml
+
+Uri: https://v1.bundlecdn.com/img/icons_pesapallo.fb4276e4c.svg
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\img\icons_pesapallo.fb4276e4c.svg
+Content Type: image/svg+xml
+
+Uri: https://v1.bundlecdn.com/img/icons_plavanie.b63c9edb4.svg
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\img\icons_plavanie.b63c9edb4.svg
+Content Type: image/svg+xml
+
+Uri: https://v1.bundlecdn.com/img/icons_politic.90853897e.svg
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\img\icons_politic.90853897e.svg
+Content Type: image/svg+xml
+
+Uri: https://v1.bundlecdn.com/img/icons_polo.29d80319d.svg
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\img\icons_polo.29d80319d.svg
+Content Type: image/svg+xml
+
+Uri: https://v1.bundlecdn.com/img/icons_pool.c491af5ac.svg
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\img\icons_pool.c491af5ac.svg
+Content Type: image/svg+xml
+
+Uri: https://v1.bundlecdn.com/img/icons_rainbowsix.211e87c3a.svg
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\img\icons_rainbowsix.211e87c3a.svg
+Content Type: image/svg+xml
+
+Uri: https://v1.bundlecdn.com/img/icons_regbi.ae24885e8.svg
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\img\icons_regbi.ae24885e8.svg
+Content Type: image/svg+xml
+
+Uri: https://v1.bundlecdn.com/img/icons_rink-hockey.63bb7c481.svg
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\img\icons_rink-hockey.63bb7c481.svg
+Content Type: image/svg+xml
+
+Uri: https://v1.bundlecdn.com/img/icons_rocket_league.cee0caab7.svg
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\img\icons_rocket_league.cee0caab7.svg
+Content Type: image/svg+xml
+
+Uri: https://v1.bundlecdn.com/img/icons_sani.0b3d57d99.svg
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\img\icons_sani.0b3d57d99.svg
+Content Type: image/svg+xml
+
+Uri: https://v1.bundlecdn.com/img/icons_scvosh.28baf9197.svg
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\img\icons_scvosh.28baf9197.svg
+Content Type: image/svg+xml
+
+Uri: https://v1.bundlecdn.com/img/icons_severnoe mnogobore.4c5e199bf.svg
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\img\icons_severnoe mnogobore.4c5e199bf.svg
+Content Type: image/svg+xml
+
+Uri: https://v1.bundlecdn.com/img/icons_shorttrack.dcf169594.svg
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\img\icons_shorttrack.dcf169594.svg
+Content Type: image/svg+xml
+
+Uri: https://v1.bundlecdn.com/img/icons_skeleton.4c19ac4e9.svg
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\img\icons_skeleton.4c19ac4e9.svg
+Content Type: image/svg+xml
+
+Uri: https://v1.bundlecdn.com/img/icons_snooker.45980f91c.svg
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\img\icons_snooker.45980f91c.svg
+Content Type: image/svg+xml
+
+Uri: https://v1.bundlecdn.com/img/icons_snowbord.abb8c1f1d.svg
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\img\icons_snowbord.abb8c1f1d.svg
+Content Type: image/svg+xml
+
+Uri: https://v1.bundlecdn.com/img/icons_special.7daaa58ed.svg
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\img\icons_special.7daaa58ed.svg
+Content Type: image/svg+xml
+
+Uri: https://v1.bundlecdn.com/img/icons_spesial.92e5c620f.svg
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\img\icons_spesial.92e5c620f.svg
+Content Type: image/svg+xml
+
+Uri: https://v1.bundlecdn.com/img/icons_starcraft.10a750cca.svg
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\img\icons_starcraft.10a750cca.svg
+Content Type: image/svg+xml
+
+Uri: https://v1.bundlecdn.com/img/icons_tennis.4b25aa6e8.svg
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\img\icons_tennis.4b25aa6e8.svg
+Content Type: image/svg+xml
+
+Uri: https://v1.bundlecdn.com/img/icons_tramplin.9c11b2e81.svg
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\img\icons_tramplin.9c11b2e81.svg
+Content Type: image/svg+xml
+
+Uri: https://v1.bundlecdn.com/img/icons_USA_football.ed12d5d45.svg
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\img\icons_USA_football.ed12d5d45.svg
+Content Type: image/svg+xml
+
+Uri: https://v1.bundlecdn.com/img/icons_valorant.a668a348b.svg
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\img\icons_valorant.a668a348b.svg
+Content Type: image/svg+xml
+
+Uri: https://v1.bundlecdn.com/img/icons_voleball.53580ff92.svg
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\img\icons_voleball.53580ff92.svg
+Content Type: image/svg+xml
+
+Uri: https://v1.bundlecdn.com/img/icons_voleball_pesok.c3ba8fc52.svg
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\img\icons_voleball_pesok.c3ba8fc52.svg
+Content Type: image/svg+xml
+
+Uri: https://v1.bundlecdn.com/img/icons_vsport.875eab795.svg
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\img\icons_vsport.875eab795.svg
+Content Type: image/svg+xml
+
+Uri: https://v1.bundlecdn.com/img/icons_winter sports.23abc5c74.svg
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\img\icons_winter sports.23abc5c74.svg
+Content Type: image/svg+xml
+
+Uri: https://v1.bundlecdn.com/img/icons_wow.f51f11f3c.svg
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\img\icons_wow.f51f11f3c.svg
+Content Type: image/svg+xml
+
+Uri: https://www-1win-mines.vercel.app/
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\index.htm
+Content Type: text/html
+
+Uri: https://www-1win-mines.vercel.app/manifest.json
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\manifest.json
+Content Type: application/json
+
+Uri: https://www-1win-mines.vercel.app/static/css/20948.309322c35.css
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\static\css\20948.309322c35.css
+Content Type: text/css
+
+Uri: https://www-1win-mines.vercel.app/static/css/29593.5cfbdf24e.css
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\static\css\29593.5cfbdf24e.css
+Content Type: text/css
+
+Uri: https://www-1win-mines.vercel.app/static/css/5405.63e4b3499.css
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\static\css\5405.63e4b3499.css
+Content Type: text/css
+
+Uri: https://www-1win-mines.vercel.app/static/css/61255.4f034e44e.css
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\static\css\61255.4f034e44e.css
+Content Type: text/css
+
+Uri: https://www-1win-mines.vercel.app/static/css/95818.a82353ce1.css
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\static\css\95818.a82353ce1.css
+Content Type: text/css
+
+Uri: https://www-1win-mines.vercel.app/static/css/index.aedf85995.css
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\static\css\index.aedf85995.css
+Content Type: text/css
+
+Uri: https://www-1win-mines.vercel.app/static/css/main.4a7afb73.css
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\static\css\main.4a7afb73.css
+Content Type: text/css
+
+Uri: https://www-1win-mines.vercel.app/static/css/mobile.62566210e.css
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\static\css\mobile.62566210e.css
+Content Type: text/css
+
+Uri: https://www-1win-mines.vercel.app/static/js/app.js
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\static\js\app.js
+Content Type: application/javascript
+
+Uri: https://www-1win-mines.vercel.app/static/media/cells-mask.1a7021b147b7851ffef6.svg
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\static\media\cells-mask.1a7021b147b7851ffef6.svg
+Content Type: image/svg+xml
+
+Uri: https://www-1win-mines.vercel.app/static/media/cellsFrame.40eb57f7e28f2ca52ad4.png
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\static\media\cellsFrame.40eb57f7e28f2ca52ad4.png
+Content Type: image/png
+
+Uri: https://www-1win-mines.vercel.app/static/media/favicon-32x32-darkmode.png
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\static\media\favicon-32x32-darkmode.png
+Content Type: image/png
+
+Uri: https://www-1win-mines.vercel.app/static/media/favicon-32x32.png
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\static\media\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://www-1win-mines.vercel.app/static/media/footer.a650de3af39c3672822e.webp
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\static\media\footer.a650de3af39c3672822e.webp
+Content Type: image/webp
+
+Uri: https://www-1win-mines.vercel.app/static/media/FS Elliot ProBold.2367fcd2daaf4114f7ab.woff2
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\static\media\FS Elliot ProBold.2367fcd2daaf4114f7ab.woff2
+Content Type: font/woff2
+
+Uri: https://www-1win-mines.vercel.app/static/media/FS Elliot ProRegular.05abfb4986712c1c8c1d.woff2
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\static\media\FS Elliot ProRegular.05abfb4986712c1c8c1d.woff2
+Content Type: font/woff2
+
+Uri: https://www-1win-mines.vercel.app/static/media/HalvarBreit-Bd.ed601a778947baf03a3f.woff2
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\static\media\HalvarBreit-Bd.ed601a778947baf03a3f.woff2
+Content Type: font/woff2
+
+Uri: https://www-1win-mines.vercel.app/static/media/HalvarBreit-Blk.43394049e0d7b03e44a8.woff2
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\static\media\HalvarBreit-Blk.43394049e0d7b03e44a8.woff2
+Content Type: font/woff2
+
+Uri: https://www-1win-mines.vercel.app/static/media/HalvarBreit-Md.ac0c54aaad903ee400f5.woff2
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\static\media\HalvarBreit-Md.ac0c54aaad903ee400f5.woff2
+Content Type: font/woff2
+
+Uri: https://www-1win-mines.vercel.app/static/media/HalvarBreit-Rg.6ededd6641646a37f35d.woff2
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\static\media\HalvarBreit-Rg.6ededd6641646a37f35d.woff2
+Content Type: font/woff2
+
+Uri: https://www-1win-mines.vercel.app/static/media/HalvarBreit-XBd.8357c9acb41ba0788b74.woff2
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\static\media\HalvarBreit-XBd.8357c9acb41ba0788b74.woff2
+Content Type: font/woff2
+
+Uri: https://www-1win-mines.vercel.app/static/media/particles.e53a48ca4d5fff68142d.svg
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\static\media\particles.e53a48ca4d5fff68142d.svg
+Content Type: image/svg+xml
+
+Uri: https://www-1win-mines.vercel.app/static/media/safari-pinned-tab.svg
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\static\media\safari-pinned-tab.svg
+Content Type: image/svg+xml
+
+Uri: https://www-1win-mines.vercel.app/static/media/SFPRODISPLAYBOLD.7f4a27565643e9e936a3.woff
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\static\media\SFPRODISPLAYBOLD.7f4a27565643e9e936a3.woff
+Content Type: font/woff
+
+Uri: https://www-1win-mines.vercel.app/static/media/SFPRODISPLAYREGULAR.d52afba30f6e0bf5bc5a.woff
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\static\media\SFPRODISPLAYREGULAR.d52afba30f6e0bf5bc5a.woff
+Content Type: font/woff
+
+Uri: https://www-1win-mines.vercel.app/static/media/star.png
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\static\media\star.png
+Content Type: image/png
+
+Uri: https://www-1win-mines.vercel.app/static/media/tour-1.b6a3c18cd827983f3091.webp
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\static\media\tour-1.b6a3c18cd827983f3091.webp
+Content Type: image/webp
+
+Uri: https://www-1win-mines.vercel.app/static/media/tour-2.6815bbba7f02489d72d5.webp
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\static\media\tour-2.6815bbba7f02489d72d5.webp
+Content Type: image/webp
+
+Uri: https://www-1win-mines.vercel.app/static/media/wins.36784977c217fb572355.webp
+File Name: C:\Downloaded Web Sites\www-1win-mines.vercel.app\static\media\wins.36784977c217fb572355.webp
+Content Type: image/webp
+
